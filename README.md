@@ -105,7 +105,7 @@ aligned by brood year (year of spawning) and are in number of salmon.
                  and a blank cell indicates the data should not be included in
                  the analyses.
 
- - `recruits.x`  The number of recruits returning at a given age (ages 2-6).
+ - `recruits.x`  The number of recruits returning at a given age (ages 2-7).
 
  - `age`         The age assumption used to calculate total recruits for chum
                  salmon. There are three values for this variable: 'data'
