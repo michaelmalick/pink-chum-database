@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.20354.svg)](http://dx.doi.org/10.5281/zenodo.20354)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.6478751.svg)](http://dx.doi.org/10.5281/zenodo.6478751)
 
 
 Pink and Chum Salmon Spawner-Recruit Database
